@@ -38,7 +38,7 @@ Entrez requires e-mail address when you want to access to PMC database.
 Add `BIO_EMAIL` environment variable containing your email address.  
 
 ## Sample Program
-`python main.py --csv sample.csv` will produce sample outputs.  
+`python src/main.py --csv sample/sample.csv` will produce sample outputs.  
 See files in markdon/html directory for outputs.  
 
 
